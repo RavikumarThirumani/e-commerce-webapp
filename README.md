@@ -4,15 +4,15 @@ is the buying and selling of goods and services,
 over an electronic network, primarily the internet.
  
 **Modules**
-> Admin Module.
-> Customers Module.
+* Admin Module.
+* Customers Module.
 
 The application was designed into two modules first is for the customers(user) who wish to buy the products
 Second is for the storekeepers(admin) who maintains and updates the information of products and customers.
 
 #### Technologies used
-front end-> visual display->html,css,bootstrap
-front end-> functionality->javascipt,react,redux
+> front end-> visual display->html,css,bootstrap
+> front end-> functionality->javascipt,react,redux
 
 backend->processing->create api's through node js
 backend->storage->mongodb
