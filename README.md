@@ -10,7 +10,7 @@ Customers Module.
 The application was designed into two modules first is for the customers(user) who wish to buy the products
 Second is for the storekeepers(admin) who maintains and updates the information of products and customers.
 
-#### Technologies used
+### Technologies used
 --------------------------------
 front end-> visual display->html,css,bootstrap
 front end-> functionality->javascipt,react,redux
@@ -18,7 +18,7 @@ front end-> functionality->javascipt,react,redux
 backend->processing->create api's through node js
 backend->storage->mongodb
 
-Steps to run WebApp
+### Steps to run WebApp
 
 1.Open the project with Visual studio code or whatever the platform that you are comfortable.
 2. Open the terminal, just run command __npm run data:import__, to import the static content, later you can customize.
